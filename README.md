@@ -39,6 +39,6 @@ Aplicación de escritorio en Python para descargar música de canales o playlist
 - Puedes modificar el archivo requirements.txt si agregas más dependencias.
 
 ---
-## Créditos
+### Créditos
 - Basado en yt-dlp y mutagen.
 - Interfaz gráfica con Tkinter.
